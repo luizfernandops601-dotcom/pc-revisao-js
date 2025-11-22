@@ -20,7 +20,7 @@ function validaDescnto(volorcopra){
     return{
         valorCompra,
         desconto,
-        valorfinal,
+        valorfinal
     }
 
 
